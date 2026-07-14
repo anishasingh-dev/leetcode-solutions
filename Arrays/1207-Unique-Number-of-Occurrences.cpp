@@ -53,3 +53,8 @@ public:
 
     }
 };
+/*
+Key Idea:
+Sorting groups equal elements together, making it easy to count their frequencies in one pass.
+Finally, compare the frequencies to ensure no two are the same.
+*/
